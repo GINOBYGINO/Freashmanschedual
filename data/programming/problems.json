@@ -1,0 +1,1374 @@
+{
+  "updatedAt": "2026-09-09",
+  "language": "C++",
+  "judgeNote": "優先在瘋狂程設或 vjudge／UVa 交題，C++ 編譯選項接近 CPE 現場。",
+  "items": [
+    {
+      "id": "uva-10041",
+      "source": "CPE一顆星",
+      "collectionIndex": 1,
+      "cpeId": "CPE10406",
+      "uvaId": "10041",
+      "title": "Vito's family",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort",
+        "median"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10041.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10041"
+      }
+    },
+    {
+      "id": "uva-10055",
+      "source": "CPE一顆星",
+      "collectionIndex": 2,
+      "cpeId": "CPE10407",
+      "uvaId": "10055",
+      "title": "Hashmat the brave warrior",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10055.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10055"
+      }
+    },
+    {
+      "id": "uva-10035",
+      "source": "CPE一顆星",
+      "collectionIndex": 3,
+      "cpeId": "CPE10404",
+      "uvaId": "10035",
+      "title": "Primary Arithmetic",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10035.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10035"
+      }
+    },
+    {
+      "id": "uva-100",
+      "source": "CPE一顆星",
+      "collectionIndex": 4,
+      "cpeId": "CPE10400",
+      "uvaId": "100",
+      "title": "The 3n + 1 problem",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/1/100.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-100"
+      }
+    },
+    {
+      "id": "uva-10929",
+      "source": "CPE一顆星",
+      "collectionIndex": 5,
+      "cpeId": "CPE10460",
+      "uvaId": "10929",
+      "title": "You can say 11",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/109/10929.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10929"
+      }
+    },
+    {
+      "id": "uva-10101",
+      "source": "CPE一顆星",
+      "collectionIndex": 6,
+      "cpeId": "CPE10414",
+      "uvaId": "10101",
+      "title": "Bangla Numbers",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/101/10101.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10101"
+      }
+    },
+    {
+      "id": "uva-10420",
+      "source": "CPE一顆星",
+      "collectionIndex": 7,
+      "cpeId": "CPE21924",
+      "uvaId": "10420",
+      "title": "List of Conquests",
+      "category": "基礎",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string",
+        "map"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/104/10420.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10420"
+      }
+    },
+    {
+      "id": "uva-10008",
+      "source": "CPE一顆星",
+      "collectionIndex": 8,
+      "cpeId": "CPE10402",
+      "uvaId": "10008",
+      "title": "What's Cryptanalysis?",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string",
+        "sort"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10008.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10008"
+      }
+    },
+    {
+      "id": "uva-10222",
+      "source": "CPE一顆星",
+      "collectionIndex": 9,
+      "cpeId": "CPE10425",
+      "uvaId": "10222",
+      "title": "Decode the Mad man",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10222.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10222"
+      }
+    },
+    {
+      "id": "uva-11332",
+      "source": "CPE一顆星",
+      "collectionIndex": 10,
+      "cpeId": "CPE10473",
+      "uvaId": "11332",
+      "title": "Summing Digits",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/113/11332.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11332"
+      }
+    },
+    {
+      "id": "uva-10252",
+      "source": "CPE一顆星",
+      "collectionIndex": 11,
+      "cpeId": "CPE10567",
+      "uvaId": "10252",
+      "title": "Common Permutation",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10252.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10252"
+      }
+    },
+    {
+      "id": "uva-490",
+      "source": "CPE一顆星",
+      "collectionIndex": 12,
+      "cpeId": "CPE21914",
+      "uvaId": "490",
+      "title": "Rotating Sentences",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/4/490.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-490"
+      }
+    },
+    {
+      "id": "uva-272",
+      "source": "CPE一顆星",
+      "collectionIndex": 13,
+      "cpeId": "CPE22131",
+      "uvaId": "272",
+      "title": "TeX Quotes",
+      "category": "字元與字串",
+      "tags": [
+        "1-star",
+        "cpe",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/2/272.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-272"
+      }
+    },
+    {
+      "id": "uva-12019",
+      "source": "CPE一顆星",
+      "collectionIndex": 14,
+      "cpeId": "CPE22801",
+      "uvaId": "12019",
+      "title": "Doom's Day Algorithm",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "date"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/120/12019.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-12019"
+      }
+    },
+    {
+      "id": "uva-10038",
+      "source": "CPE一顆星",
+      "collectionIndex": 15,
+      "cpeId": "CPE10405",
+      "uvaId": "10038",
+      "title": "Jolly Jumpers",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "array"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10038.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10038"
+      }
+    },
+    {
+      "id": "uva-10056",
+      "source": "CPE一顆星",
+      "collectionIndex": 16,
+      "cpeId": "CPE10408",
+      "uvaId": "10056",
+      "title": "What is the Probability!!",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10056.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10056"
+      }
+    },
+    {
+      "id": "uva-10170",
+      "source": "CPE一顆星",
+      "collectionIndex": 17,
+      "cpeId": "CPE10417",
+      "uvaId": "10170",
+      "title": "The Hotel with Infinite Rooms",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/101/10170.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10170"
+      }
+    },
+    {
+      "id": "uva-10268",
+      "source": "CPE一顆星",
+      "collectionIndex": 18,
+      "cpeId": "CPE10431",
+      "uvaId": "10268",
+      "title": "498'",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10268.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10268"
+      }
+    },
+    {
+      "id": "uva-10783",
+      "source": "CPE一顆星",
+      "collectionIndex": 19,
+      "cpeId": "CPE10453",
+      "uvaId": "10783",
+      "title": "Odd Sum",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/107/10783.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10783"
+      }
+    },
+    {
+      "id": "uva-10812",
+      "source": "CPE一顆星",
+      "collectionIndex": 20,
+      "cpeId": "CPE10454",
+      "uvaId": "10812",
+      "title": "Beat the Spread!",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/108/10812.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10812"
+      }
+    },
+    {
+      "id": "uva-11349",
+      "source": "CPE一顆星",
+      "collectionIndex": 21,
+      "cpeId": "CPE10478",
+      "uvaId": "11349",
+      "title": "Symmetric Matrix",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "array"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/113/11349.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11349"
+      }
+    },
+    {
+      "id": "uva-11461",
+      "source": "CPE一顆星",
+      "collectionIndex": 22,
+      "cpeId": "CPE10480",
+      "uvaId": "11461",
+      "title": "Square Numbers",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/114/11461.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11461"
+      }
+    },
+    {
+      "id": "uva-11063",
+      "source": "CPE一顆星",
+      "collectionIndex": 23,
+      "cpeId": "CPE23621",
+      "uvaId": "11063",
+      "title": "B2-Sequence",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "array"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/110/11063.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11063"
+      }
+    },
+    {
+      "id": "uva-10071",
+      "source": "CPE一顆星",
+      "collectionIndex": 24,
+      "cpeId": "CPE10411",
+      "uvaId": "10071",
+      "title": "Back to High School Physics",
+      "category": "數學計算",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10071.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10071"
+      }
+    },
+    {
+      "id": "uva-10093",
+      "source": "CPE一顆星",
+      "collectionIndex": 25,
+      "cpeId": "CPE10413",
+      "uvaId": "10093",
+      "title": "An Easy Problem!",
+      "category": "進位制轉換",
+      "tags": [
+        "1-star",
+        "cpe",
+        "base"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10093.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10093"
+      }
+    },
+    {
+      "id": "uva-948",
+      "source": "CPE一顆星",
+      "collectionIndex": 26,
+      "cpeId": "CPE10401",
+      "uvaId": "948",
+      "title": "Fibonaccimal Base",
+      "category": "進位制轉換",
+      "tags": [
+        "1-star",
+        "cpe",
+        "base"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/9/948.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-948"
+      }
+    },
+    {
+      "id": "uva-10019",
+      "source": "CPE一顆星",
+      "collectionIndex": 27,
+      "cpeId": "CPE10403",
+      "uvaId": "10019",
+      "title": "Funny Encryption Method",
+      "category": "進位制轉換",
+      "tags": [
+        "1-star",
+        "cpe",
+        "base"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10019.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10019"
+      }
+    },
+    {
+      "id": "uva-10931",
+      "source": "CPE一顆星",
+      "collectionIndex": 28,
+      "cpeId": "CPE10461",
+      "uvaId": "10931",
+      "title": "Parity",
+      "category": "進位制轉換",
+      "tags": [
+        "1-star",
+        "cpe",
+        "base"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/109/10931.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10931"
+      }
+    },
+    {
+      "id": "uva-11005",
+      "source": "CPE一顆星",
+      "collectionIndex": 29,
+      "cpeId": "CPE10466",
+      "uvaId": "11005",
+      "title": "Cheapest Base",
+      "category": "進位制轉換",
+      "tags": [
+        "1-star",
+        "cpe",
+        "base"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/110/11005.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11005"
+      }
+    },
+    {
+      "id": "uva-10050",
+      "source": "CPE一顆星",
+      "collectionIndex": 30,
+      "cpeId": "CPE10517",
+      "uvaId": "10050",
+      "title": "Hartals",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10050.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10050"
+      }
+    },
+    {
+      "id": "uva-10193",
+      "source": "CPE一顆星",
+      "collectionIndex": 31,
+      "cpeId": "CPE10421",
+      "uvaId": "10193",
+      "title": "All You Need Is Love!",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "number-theory"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/101/10193.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10193"
+      }
+    },
+    {
+      "id": "uva-10190",
+      "source": "CPE一顆星",
+      "collectionIndex": 32,
+      "cpeId": "CPE10419",
+      "uvaId": "10190",
+      "title": "Divide, But Not Quite Conquer!",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/101/10190.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10190"
+      }
+    },
+    {
+      "id": "uva-10235",
+      "source": "CPE一顆星",
+      "collectionIndex": 33,
+      "cpeId": "CPE10428",
+      "uvaId": "10235",
+      "title": "Simply Emirp",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "prime"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10235.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10235"
+      }
+    },
+    {
+      "id": "uva-10922",
+      "source": "CPE一顆星",
+      "collectionIndex": 34,
+      "cpeId": "CPE10458",
+      "uvaId": "10922",
+      "title": "2 the 9s",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/109/10922.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10922"
+      }
+    },
+    {
+      "id": "uva-11417",
+      "source": "CPE一顆星",
+      "collectionIndex": 35,
+      "cpeId": "CPE11076",
+      "uvaId": "11417",
+      "title": "GCD",
+      "category": "質數因數與倍數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "number-theory"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/114/11417.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11417"
+      }
+    },
+    {
+      "id": "uva-10908",
+      "source": "CPE一顆星",
+      "collectionIndex": 36,
+      "cpeId": "CPE10456",
+      "uvaId": "10908",
+      "title": "Largest Square",
+      "category": "幾何與座標",
+      "tags": [
+        "1-star",
+        "cpe",
+        "geometry",
+        "array"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/109/10908.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10908"
+      }
+    },
+    {
+      "id": "uva-10221",
+      "source": "CPE一顆星",
+      "collectionIndex": 37,
+      "cpeId": "CPE10424",
+      "uvaId": "10221",
+      "title": "Satellites",
+      "category": "幾何與座標",
+      "tags": [
+        "1-star",
+        "cpe",
+        "geometry"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10221.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10221"
+      }
+    },
+    {
+      "id": "uva-10642",
+      "source": "CPE一顆星",
+      "collectionIndex": 38,
+      "cpeId": "CPE10447",
+      "uvaId": "10642",
+      "title": "Can You Solve It?",
+      "category": "幾何與座標",
+      "tags": [
+        "1-star",
+        "cpe",
+        "geometry"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/106/10642.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10642"
+      }
+    },
+    {
+      "id": "uva-10242",
+      "source": "CPE一顆星",
+      "collectionIndex": 39,
+      "cpeId": "CPE10566",
+      "uvaId": "10242",
+      "title": "Fourth Point!!",
+      "category": "幾何與座標",
+      "tags": [
+        "1-star",
+        "cpe",
+        "geometry"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10242.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10242"
+      }
+    },
+    {
+      "id": "uva-10057",
+      "source": "CPE一顆星",
+      "collectionIndex": 40,
+      "cpeId": "CPE10409",
+      "uvaId": "10057",
+      "title": "A mid-summer night's dream",
+      "category": "排序與中位數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort",
+        "median"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10057.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10057"
+      }
+    },
+    {
+      "id": "uva-10062",
+      "source": "CPE一顆星",
+      "collectionIndex": 41,
+      "cpeId": "CPE10410",
+      "uvaId": "10062",
+      "title": "Tell me the frequencies!",
+      "category": "排序與中位數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort",
+        "string"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10062.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10062"
+      }
+    },
+    {
+      "id": "uva-299",
+      "source": "CPE一顆星",
+      "collectionIndex": 42,
+      "cpeId": "CPE22811",
+      "uvaId": "299",
+      "title": "Train Swapping",
+      "category": "排序與中位數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/2/299.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-299"
+      }
+    },
+    {
+      "id": "uva-10226",
+      "source": "CPE一顆星",
+      "collectionIndex": 43,
+      "cpeId": "CPE10426",
+      "uvaId": "10226",
+      "title": "Hardwood Species",
+      "category": "排序與中位數",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort",
+        "map"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/102/10226.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10226"
+      }
+    },
+    {
+      "id": "uva-10189",
+      "source": "CPE一顆星",
+      "collectionIndex": 44,
+      "cpeId": "CPE10418",
+      "uvaId": "10189",
+      "title": "Minesweeper",
+      "category": "模擬",
+      "tags": [
+        "1-star",
+        "cpe",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/101/10189.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10189"
+      }
+    },
+    {
+      "id": "uva-10409",
+      "source": "CPE一顆星",
+      "collectionIndex": 45,
+      "cpeId": "CPE11019",
+      "uvaId": "10409",
+      "title": "Die Game",
+      "category": "模擬",
+      "tags": [
+        "1-star",
+        "cpe",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/104/10409.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10409"
+      }
+    },
+    {
+      "id": "uva-10415",
+      "source": "CPE一顆星",
+      "collectionIndex": 46,
+      "cpeId": "CPE11020",
+      "uvaId": "10415",
+      "title": "Eb Alto Saxophone Player",
+      "category": "模擬",
+      "tags": [
+        "1-star",
+        "cpe",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/104/10415.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10415"
+      }
+    },
+    {
+      "id": "uva-118",
+      "source": "CPE一顆星",
+      "collectionIndex": 47,
+      "cpeId": "CPE23641",
+      "uvaId": "118",
+      "title": "Mutant Flatworld Explorers",
+      "category": "模擬",
+      "tags": [
+        "1-star",
+        "cpe",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/1/118.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-118"
+      }
+    },
+    {
+      "id": "uva-11150",
+      "source": "CPE一顆星",
+      "collectionIndex": 48,
+      "cpeId": "CPE11067",
+      "uvaId": "11150",
+      "title": "Cola",
+      "category": "模擬",
+      "tags": [
+        "1-star",
+        "cpe",
+        "math",
+        "simulation"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/111/11150.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11150"
+      }
+    },
+    {
+      "id": "uva-11321",
+      "source": "CPE一顆星",
+      "collectionIndex": 49,
+      "cpeId": "CPE11069",
+      "uvaId": "11321",
+      "title": "Sort! Sort!! and Sort!!!",
+      "category": "其他",
+      "tags": [
+        "1-star",
+        "cpe",
+        "sort"
+      ],
+      "difficulty": 1,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/113/11321.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11321"
+      }
+    },
+    {
+      "id": "uva-572",
+      "source": "圖論起手",
+      "uvaId": "572",
+      "title": "Oil Deposits",
+      "category": "DFS",
+      "tags": [
+        "dfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "網格連通塊（flood fill）。10/6 前至少做完這題與 Knight Moves。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/5/572.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-572"
+      }
+    },
+    {
+      "id": "uva-459",
+      "source": "圖論起手",
+      "uvaId": "459",
+      "title": "Graph Connectivity",
+      "category": "DFS",
+      "tags": [
+        "dfs",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "無向圖連通塊。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/4/459.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-459"
+      }
+    },
+    {
+      "id": "uva-469",
+      "source": "圖論起手",
+      "uvaId": "469",
+      "title": "Wetlands of Florida",
+      "category": "DFS",
+      "tags": [
+        "dfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "網格 DFS 計面積。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/4/469.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-469"
+      }
+    },
+    {
+      "id": "uva-11953",
+      "source": "圖論起手",
+      "uvaId": "11953",
+      "title": "Battleships",
+      "category": "DFS",
+      "tags": [
+        "dfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "網格連通塊變形。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/119/11953.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11953"
+      }
+    },
+    {
+      "id": "uva-11518",
+      "source": "圖論起手",
+      "uvaId": "11518",
+      "title": "Dominos 2",
+      "category": "DFS",
+      "tags": [
+        "dfs",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "有向圖可達。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/115/11518.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-11518"
+      }
+    },
+    {
+      "id": "uva-10004",
+      "source": "圖論起手",
+      "uvaId": "10004",
+      "title": "Bicoloring",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "二分圖著色，BFS／DFS 都可以。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/100/10004.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10004"
+      }
+    },
+    {
+      "id": "uva-439",
+      "source": "圖論起手",
+      "uvaId": "439",
+      "title": "Knight Moves",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "棋盤最短步。無權重最短路一律 BFS。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/4/439.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-439"
+      }
+    },
+    {
+      "id": "uva-532",
+      "source": "圖論起手",
+      "uvaId": "532",
+      "title": "Dungeon Master",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "三維迷宮最短路。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/5/532.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-532"
+      }
+    },
+    {
+      "id": "uva-10653",
+      "source": "圖論起手",
+      "uvaId": "10653",
+      "title": "Bombs! NO they are Mines!!",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "grid",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "大網格最短路，注意常數。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/106/10653.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-10653"
+      }
+    },
+    {
+      "id": "uva-336",
+      "source": "圖論起手",
+      "uvaId": "336",
+      "title": "A Node Too Far",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "graph"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "限制層數的 BFS。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/3/336.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-336"
+      }
+    },
+    {
+      "id": "uva-429",
+      "source": "圖論起手",
+      "uvaId": "429",
+      "title": "Word Transformation",
+      "category": "BFS",
+      "tags": [
+        "bfs",
+        "graph",
+        "string"
+      ],
+      "difficulty": 2,
+      "language": "C++",
+      "status": "todo",
+      "minutes": null,
+      "note": "單字圖最短路。",
+      "urls": {
+        "uvaPdf": "https://onlinejudge.org/external/4/429.pdf",
+        "vjudge": "https://vjudge.net/problem/UVA-429"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+app/node_modules/
+app/dist/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.local
+.env
+.env.*
+# 考古題 PDF 請本機保留；線上版用原站連結開啟
+data/calculus/papers/*.pdf
+!data/calculus/papers/.gitkeep

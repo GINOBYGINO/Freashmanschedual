@@ -1,0 +1,10 @@
+{
+  "name": "freshman-study-db",
+  "private": true,
+  "scripts": {
+    "data": "node scripts/generate-data.mjs",
+    "papers": "node scripts/download-papers.mjs",
+    "dev": "npm run dev --prefix app",
+    "build": "npm run build --prefix app"
+  }
+}
