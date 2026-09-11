@@ -6,11 +6,17 @@
 
 ## 行動裝置／線上網頁
 
-推上 `main` 後，GitHub Actions 會自動部署：
+網址：
 
 **https://ginobygino.github.io/Freashmanschedual/**
 
-第一次請到 GitHub repo → **Settings → Pages**，Source 選 **GitHub Actions**。
+第一次請到 GitHub → **Settings → Pages**：
+
+1. Source 選 **Deploy from a branch**
+2. Branch 選 **`gh-pages`** / **/ (root)**
+3. 按 Save，等 1–2 分鐘再開上面網址
+
+之後每次推 `main`，Actions 會自動更新 `gh-pages`。
 
 進度存在瀏覽器本機，手機與電腦不會自動同步；要備份請用頁面「匯出目前進度」。
 
