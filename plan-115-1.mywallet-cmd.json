@@ -1,7 +1,7 @@
 {
   "schema": "mywallet-cmd/v1",
   "mode": "apply",
-  "note": "115-1 學習計畫：GPA／外校卷 26 張／CPE。課內作業優先；10 月前不深挖 DP。",
+  "note": "115-1 學習計畫：GPA／外校卷 26 張／CPE。課內作業優先；程式期中先清一顆星 49 題；10 月前不深挖 DP。",
   "commands": [
     {
       "op": "semester.set",
@@ -1040,7 +1040,7 @@
           "note": "模擬 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 572、439、10004",
+          "title": "CPE：UVa 10101、10420、10222、10252",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1050,10 +1050,10 @@
             "date": "2026-09-29",
             "time": "21:30"
           },
-          "note": "DFS／BFS 起手；10/6 前至少做完 572、439 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星基礎收尾＋字串 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 459、532、336",
+          "title": "CPE：UVa 490、572、439",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1063,10 +1063,10 @@
             "date": "2026-10-02",
             "time": "21:30"
           },
-          "note": "圖論 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "字串＋10/6 圖論底線（Oil Deposits、Knight Moves）· C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10653、469",
+          "title": "CPE：UVa 12019、10056、10170、10268",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1076,10 +1076,10 @@
             "date": "2026-10-09",
             "time": "21:30"
           },
-          "note": "BFS／DFS · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星數學 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 11953、11518",
+          "title": "CPE：UVa 10812、11349、11461、11063",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1089,10 +1089,10 @@
             "date": "2026-10-13",
             "time": "21:30"
           },
-          "note": "DFS · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星數學 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 429、10420",
+          "title": "CPE：UVa 10093、948、10019、10931",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1102,10 +1102,10 @@
             "date": "2026-10-16",
             "time": "21:30"
           },
-          "note": "BFS／字串 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星進位 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10226、10062",
+          "title": "CPE：UVa 11005、10050、10193、10190",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1115,10 +1115,10 @@
             "date": "2026-10-20",
             "time": "21:30"
           },
-          "note": "排序、map · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星進位／倍數 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 11417、10235",
+          "title": "CPE：UVa 10235、10922、11417、10908",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1128,10 +1128,10 @@
             "date": "2026-10-23",
             "time": "21:30"
           },
-          "note": "數論、質數 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中優先：一顆星質數／幾何 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10908、10242",
+          "title": "CPE：UVa 10221、10642",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1141,10 +1141,10 @@
             "date": "2026-10-27",
             "time": "21:30"
           },
-          "note": "幾何 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "幾何；微積分期中前一晚只 2 題，做不完就停 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 12019、10101",
+          "title": "CPE：UVa 10242、10057、10062",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1154,10 +1154,10 @@
             "date": "2026-10-30",
             "time": "21:30"
           },
-          "note": "日期、進位字串 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中後收尾一顆星 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 11005、10931",
+          "title": "CPE：UVa 10226、10409、10415",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1167,10 +1167,10 @@
             "date": "2026-11-03",
             "time": "21:30"
           },
-          "note": "進位 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "期中後收尾一顆星 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10050、10193",
+          "title": "CPE：UVa 11321、10004、459",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1180,10 +1180,10 @@
             "date": "2026-11-06",
             "time": "21:30"
           },
-          "note": "週期、GCD · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "一顆星最後一題＋圖論接回（衝 12/8）· C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10252、490",
+          "title": "CPE：UVa 532、336、10653",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1193,10 +1193,10 @@
             "date": "2026-11-10",
             "time": "21:30"
           },
-          "note": "字串 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "圖論起手（衝 12/8）· C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10222、11349",
+          "title": "CPE：UVa 469、11953、11518",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1206,10 +1206,10 @@
             "date": "2026-11-13",
             "time": "21:30"
           },
-          "note": "字串、矩陣 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "圖論起手（衝 12/8）· C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
         },
         {
-          "title": "CPE：UVa 10170、10268",
+          "title": "CPE：UVa 429",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1219,10 +1219,10 @@
             "date": "2026-11-17",
             "time": "21:30"
           },
-          "note": "數學 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "圖論起手最後一題。之後改複習一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 10812、11461",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1232,10 +1232,10 @@
             "date": "2026-11-20",
             "time": "21:30"
           },
-          "note": "數學 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 11063、10093",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1245,10 +1245,10 @@
             "date": "2026-11-24",
             "time": "21:30"
           },
-          "note": "數列、進位 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 948、10019",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1258,10 +1258,10 @@
             "date": "2026-11-27",
             "time": "21:30"
           },
-          "note": "進位、位元 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 10190、10922",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1271,10 +1271,10 @@
             "date": "2026-12-01",
             "time": "21:30"
           },
-          "note": "數學 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 10221、10642",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1284,10 +1284,10 @@
             "date": "2026-12-04",
             "time": "21:30"
           },
-          "note": "幾何 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 10057、10409",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1297,10 +1297,10 @@
             "date": "2026-12-11",
             "time": "21:30"
           },
-          "note": "中位數、模擬 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "12/8 後復盤；補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
-          "title": "CPE：UVa 10415、10056",
+          "title": "CPE：複習一顆星錯題",
           "category": "學業",
           "ticketLevel": 5,
           "appear": {
@@ -1310,7 +1310,7 @@
             "date": "2026-12-15",
             "time": "21:30"
           },
-          "note": "模擬、機率 · C++ · 瘋狂程設／vjudge／UVa；做不完拖下一格，不跳題"
+          "note": "補做不完的圖論或一顆星錯題 · C++ · 瘋狂程設／vjudge／UVa"
         },
         {
           "title": "CPE 10/6 報名",

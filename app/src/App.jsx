@@ -125,7 +125,7 @@ export default function App() {
 
   const problemMap = Object.fromEntries(data.problems.map((p) => [p.id, p]));
   const paperMap = Object.fromEntries(data.papers.map((p) => [p.id, p]));
-  const tags = ["all", "1-star", "dfs", "bfs", "sort", "simulation", "graph"];
+  const tags = ["all", "midterm", "1-star", "dfs", "bfs", "sort", "simulation", "graph"];
 
   const filteredProblems = data.problems.filter((p) => {
     const hay = `${p.title} ${p.uvaId} ${p.category} ${(p.tags || []).join(" ")}`.toLowerCase();
@@ -317,7 +317,7 @@ export default function App() {
             <select value={tag} onChange={(e) => setTag(e.target.value)}>
               {tags.map((t) => (
                 <option key={t} value={t}>
-                  {t === "all" ? "全部標籤" : t}
+                  {t === "all" ? "全部標籤" : t === "midterm" ? "期中優先（一顆星）" : t}
                 </option>
               ))}
             </select>

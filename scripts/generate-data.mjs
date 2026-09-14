@@ -90,12 +90,12 @@ const starProblems = STAR.map(([n, title, cpe, uva, extra]) => ({
   uvaId: String(uva),
   title,
   category: categoryOf(n),
-  tags: ["1-star", "cpe", ...extra],
+  tags: ["1-star", "cpe", "midterm", ...extra],
   difficulty: 1,
   language: "C++",
   status: "todo",
   minutes: null,
-  note: "",
+  note: "程式期中優先（一顆星選集）。",
   urls: {
     uvaPdf: uvaPdf(uva),
     vjudge: vjudge(uva),
@@ -114,7 +114,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "網格連通塊（flood fill）。10/6 前至少做完這題與 Knight Moves。",
+    note: "網格連通塊（flood fill）。10/6 前圖論底線，排在 10/2。",
     urls: { uvaPdf: uvaPdf(572), vjudge: vjudge(572) },
   },
   {
@@ -128,7 +128,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "無向圖連通塊。",
+    note: "無向圖連通塊。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(459), vjudge: vjudge(459) },
   },
   {
@@ -142,7 +142,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "網格 DFS 計面積。",
+    note: "網格 DFS 計面積。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(469), vjudge: vjudge(469) },
   },
   {
@@ -156,7 +156,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "網格連通塊變形。",
+    note: "網格連通塊變形。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(11953), vjudge: vjudge(11953) },
   },
   {
@@ -170,7 +170,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "有向圖可達。",
+    note: "有向圖可達。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(11518), vjudge: vjudge(11518) },
   },
   {
@@ -184,7 +184,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "二分圖著色，BFS／DFS 都可以。",
+    note: "二分圖著色，BFS／DFS 都可以。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(10004), vjudge: vjudge(10004) },
   },
   {
@@ -198,7 +198,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "棋盤最短步。無權重最短路一律 BFS。",
+    note: "棋盤最短步。無權重最短路一律 BFS。10/6 前圖論底線，排在 10/2。",
     urls: { uvaPdf: uvaPdf(439), vjudge: vjudge(439) },
   },
   {
@@ -212,7 +212,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "三維迷宮最短路。",
+    note: "三維迷宮最短路。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(532), vjudge: vjudge(532) },
   },
   {
@@ -226,7 +226,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "大網格最短路，注意常數。",
+    note: "大網格最短路，注意常數。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(10653), vjudge: vjudge(10653) },
   },
   {
@@ -240,7 +240,7 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "限制層數的 BFS。",
+    note: "限制層數的 BFS。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(336), vjudge: vjudge(336) },
   },
   {
@@ -254,15 +254,16 @@ const graphProblems = [
     language: "C++",
     status: "todo",
     minutes: null,
-    note: "單字圖最短路。",
+    note: "單字圖最短路。一顆星清完後再做，衝 12/8。",
     urls: { uvaPdf: uvaPdf(429), vjudge: vjudge(429) },
   },
 ];
 
 const problems = {
-  updatedAt: "2026-09-09",
+  updatedAt: "2026-09-14",
   language: "C++",
-  judgeNote: "優先在瘋狂程設或 vjudge／UVa 交題，C++ 編譯選項接近 CPE 現場。",
+  judgeNote:
+    "一顆星 49 題與 https://yuihuang.com/cpe-level-1-49/、官網 starList 相同（該站依 UVa 題號，本庫依分類編號）。優先在瘋狂程設或 vjudge／UVa 交題。",
   items: [...starProblems, ...graphProblems],
 };
 
@@ -441,28 +442,38 @@ const PROGRAM_PLAN = [
   ["2026-09-15", ["uva-10041", "uva-299", "uva-10008"]],
   ["2026-09-18", ["uva-272", "uva-10929", "uva-10038"]],
   ["2026-09-22", ["uva-10189", "uva-118", "uva-11150"]],
-  ["2026-09-29", ["uva-572", "uva-439", "uva-10004"]],
-  ["2026-10-02", ["uva-459", "uva-532", "uva-336"]],
-  ["2026-10-09", ["uva-10653", "uva-469"]],
-  ["2026-10-13", ["uva-11953", "uva-11518"]],
-  ["2026-10-16", ["uva-429", "uva-10420"]],
-  ["2026-10-20", ["uva-10226", "uva-10062"]],
-  ["2026-10-23", ["uva-11417", "uva-10235"]],
-  ["2026-10-27", ["uva-10908", "uva-10242"]],
-  ["2026-10-30", ["uva-12019", "uva-10101"]],
-  ["2026-11-03", ["uva-11005", "uva-10931"]],
-  ["2026-11-06", ["uva-10050", "uva-10193"]],
-  ["2026-11-10", ["uva-10252", "uva-490"]],
-  ["2026-11-13", ["uva-10222", "uva-11349"]],
-  ["2026-11-17", ["uva-10170", "uva-10268"]],
-  ["2026-11-20", ["uva-10812", "uva-11461"]],
-  ["2026-11-24", ["uva-11063", "uva-10093"]],
-  ["2026-11-27", ["uva-948", "uva-10019"]],
-  ["2026-12-01", ["uva-10190", "uva-10922"]],
-  ["2026-12-04", ["uva-10221", "uva-10642"]],
-  ["2026-12-11", ["uva-10057", "uva-10409"]],
-  ["2026-12-15", ["uva-10415", "uva-10056"]],
+  ["2026-09-29", ["uva-10101", "uva-10420", "uva-10222", "uva-10252"]],
+  ["2026-10-02", ["uva-490", "uva-572", "uva-439"]],
+  ["2026-10-09", ["uva-12019", "uva-10056", "uva-10170", "uva-10268"]],
+  ["2026-10-13", ["uva-10812", "uva-11349", "uva-11461", "uva-11063"]],
+  ["2026-10-16", ["uva-10093", "uva-948", "uva-10019", "uva-10931"]],
+  ["2026-10-20", ["uva-11005", "uva-10050", "uva-10193", "uva-10190"]],
+  ["2026-10-23", ["uva-10235", "uva-10922", "uva-11417", "uva-10908"]],
+  ["2026-10-27", ["uva-10221", "uva-10642"]],
+  ["2026-10-30", ["uva-10242", "uva-10057", "uva-10062"]],
+  ["2026-11-03", ["uva-10226", "uva-10409", "uva-10415"]],
+  ["2026-11-06", ["uva-11321", "uva-10004", "uva-459"]],
+  ["2026-11-10", ["uva-532", "uva-336", "uva-10653"]],
+  ["2026-11-13", ["uva-469", "uva-11953", "uva-11518"]],
+  ["2026-11-17", ["uva-429"]],
 ];
+
+const PROGRAM_NOTE = {
+  "2026-09-29": "期中優先：先清一顆星。做不完拖下一格，不跳題。",
+  "2026-10-02": "10/6 圖論底線：572 Oil Deposits、439 Knight Moves；其餘繼續一顆星。",
+  "2026-10-09": "期中優先：一顆星。做不完拖下一格，不跳題。",
+  "2026-10-13": "期中優先：一顆星。做不完拖下一格，不跳題。",
+  "2026-10-16": "期中優先：一顆星（進位）。做不完拖下一格，不跳題。",
+  "2026-10-20": "期中優先：一顆星。做不完拖下一格，不跳題。",
+  "2026-10-23": "期中優先：一顆星。10/23 前盡量把已排的做完。",
+  "2026-10-27": "微積分期中前一晚只排 2 題；做不完就停，不要熬夜。",
+  "2026-10-30": "期中後收尾一顆星。做不完拖下一格。",
+  "2026-11-03": "期中後收尾一顆星。做不完拖下一格。",
+  "2026-11-06": "一顆星最後一題，圖論接回衝 12/8。",
+  "2026-11-10": "圖論起手（衝 12/8）。做不完拖下一格，不跳題。",
+  "2026-11-13": "圖論起手（衝 12/8）。做不完拖下一格，不跳題。",
+  "2026-11-17": "圖論起手最後一題。之後時段改複習一顆星錯題。",
+};
 
 const planMap = Object.fromEntries(PROGRAM_PLAN);
 
@@ -621,9 +632,11 @@ for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
       if (ids) {
         ev.relatedProblemIds = ids;
         ev.subtitle = ids.map((id) => id.replace("uva-", "UVa ")).join("、");
-        ev.notes = "做不完就拖到下一個程式時段，不要跳題只求數量。";
+        ev.notes =
+          PROGRAM_NOTE[iso] ||
+          "做不完就拖到下一個程式時段，不要跳題只求數量。";
       } else {
-        ev.subtitle = "複習錯題或補一顆星";
+        ev.subtitle = iso < "2026-11-06" ? "複習錯題或補一顆星" : "複習一顆星錯題，或補做不完的圖論";
         ev.kind = "review";
       }
     }

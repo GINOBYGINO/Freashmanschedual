@@ -625,16 +625,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 572、UVa 439、UVa 10004",
+      "subtitle": "UVa 10101、UVa 10420、UVa 10222、UVa 10252",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-572",
-        "uva-439",
-        "uva-10004"
+        "uva-10101",
+        "uva-10420",
+        "uva-10222",
+        "uva-10252"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：先清一顆星。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-09-30-w3-evening",
@@ -697,16 +698,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 459、UVa 532、UVa 336",
+      "subtitle": "UVa 490、UVa 572、UVa 439",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-459",
-        "uva-532",
-        "uva-336"
+        "uva-490",
+        "uva-572",
+        "uva-439"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "10/6 圖論底線：572 Oil Deposits、439 Knight Moves；其餘繼續一顆星。"
     },
     {
       "id": "evt-2026-10-05-w1-afternoon",
@@ -820,15 +821,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10653、UVa 469",
+      "subtitle": "UVa 12019、UVa 10056、UVa 10170、UVa 10268",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10653",
-        "uva-469"
+        "uva-12019",
+        "uva-10056",
+        "uva-10170",
+        "uva-10268"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：一顆星。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-10-12-w1-afternoon",
@@ -874,15 +877,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 11953、UVa 11518",
+      "subtitle": "UVa 10812、UVa 11349、UVa 11461、UVa 11063",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-11953",
-        "uva-11518"
+        "uva-10812",
+        "uva-11349",
+        "uva-11461",
+        "uva-11063"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：一顆星。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-10-14-w3-evening",
@@ -945,15 +950,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 429、UVa 10420",
+      "subtitle": "UVa 10093、UVa 948、UVa 10019、UVa 10931",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-429",
-        "uva-10420"
+        "uva-10093",
+        "uva-948",
+        "uva-10019",
+        "uva-10931"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：一顆星（進位）。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-10-19-w1-afternoon",
@@ -999,15 +1006,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10226、UVa 10062",
+      "subtitle": "UVa 11005、UVa 10050、UVa 10193、UVa 10190",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10226",
-        "uva-10062"
+        "uva-11005",
+        "uva-10050",
+        "uva-10193",
+        "uva-10190"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：一顆星。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-10-21-w3-evening",
@@ -1070,15 +1079,17 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 11417、UVa 10235",
+      "subtitle": "UVa 10235、UVa 10922、UVa 11417、UVa 10908",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
+        "uva-10235",
+        "uva-10922",
         "uva-11417",
-        "uva-10235"
+        "uva-10908"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中優先：一顆星。10/23 前盡量把已排的做完。"
     },
     {
       "id": "evt-2026-10-26-w1-afternoon",
@@ -1124,15 +1135,15 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10908、UVa 10242",
+      "subtitle": "UVa 10221、UVa 10642",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10908",
-        "uva-10242"
+        "uva-10221",
+        "uva-10642"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "微積分期中前一晚只排 2 題；做不完就停，不要熬夜。"
     },
     {
       "id": "evt-2026-10-28-exam-afternoon",
@@ -1212,15 +1223,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 12019、UVa 10101",
+      "subtitle": "UVa 10242、UVa 10057、UVa 10062",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-12019",
-        "uva-10101"
+        "uva-10242",
+        "uva-10057",
+        "uva-10062"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中後收尾一顆星。做不完拖下一格。"
     },
     {
       "id": "evt-2026-11-02-w1-afternoon",
@@ -1266,15 +1278,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 11005、UVa 10931",
+      "subtitle": "UVa 10226、UVa 10409、UVa 10415",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-11005",
-        "uva-10931"
+        "uva-10226",
+        "uva-10409",
+        "uva-10415"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "期中後收尾一顆星。做不完拖下一格。"
     },
     {
       "id": "evt-2026-11-04-w3-evening",
@@ -1337,15 +1350,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10050、UVa 10193",
+      "subtitle": "UVa 11321、UVa 10004、UVa 459",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10050",
-        "uva-10193"
+        "uva-11321",
+        "uva-10004",
+        "uva-459"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "一顆星最後一題，圖論接回衝 12/8。"
     },
     {
       "id": "evt-2026-11-09-w1-afternoon",
@@ -1391,15 +1405,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10252、UVa 490",
+      "subtitle": "UVa 532、UVa 336、UVa 10653",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10252",
-        "uva-490"
+        "uva-532",
+        "uva-336",
+        "uva-10653"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "圖論起手（衝 12/8）。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-11-11-w3-evening",
@@ -1462,15 +1477,16 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10222、UVa 11349",
+      "subtitle": "UVa 469、UVa 11953、UVa 11518",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10222",
-        "uva-11349"
+        "uva-469",
+        "uva-11953",
+        "uva-11518"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "圖論起手（衝 12/8）。做不完拖下一格，不跳題。"
     },
     {
       "id": "evt-2026-11-16-w1-afternoon",
@@ -1516,15 +1532,14 @@
       "subject": "programming",
       "kind": "practice",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10170、UVa 10268",
+      "subtitle": "UVa 429",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [
-        "uva-10170",
-        "uva-10268"
+        "uva-429"
       ],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": "圖論起手最後一題。之後時段改複習一顆星錯題。"
     },
     {
       "id": "evt-2026-11-18-w3-evening",
@@ -1585,17 +1600,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10812、UVa 11461",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-10812",
-        "uva-11461"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-11-23-w1-afternoon",
@@ -1639,17 +1651,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 11063、UVa 10093",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-11063",
-        "uva-10093"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-11-25-w3-evening",
@@ -1710,17 +1719,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 948、UVa 10019",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-948",
-        "uva-10019"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-11-30-w1-afternoon",
@@ -1764,17 +1770,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10190、UVa 10922",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-10190",
-        "uva-10922"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-12-02-w3-evening",
@@ -1835,17 +1838,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10221、UVa 10642",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-10221",
-        "uva-10642"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-12-07-w1-afternoon",
@@ -1957,17 +1957,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10057、UVa 10409",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-10057",
-        "uva-10409"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-12-14-w1-afternoon",
@@ -2011,17 +2008,14 @@
       "start": "19:30",
       "end": "21:30",
       "subject": "programming",
-      "kind": "practice",
+      "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "UVa 10415、UVa 10056",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
-      "relatedProblemIds": [
-        "uva-10415",
-        "uva-10056"
-      ],
+      "relatedProblemIds": [],
       "relatedPaperId": null,
-      "notes": "做不完就拖到下一個程式時段，不要跳題只求數量。"
+      "notes": ""
     },
     {
       "id": "evt-2026-12-16-w3-evening",
@@ -2084,7 +2078,7 @@
       "subject": "programming",
       "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "複習錯題或補一顆星",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [],
@@ -2135,7 +2129,7 @@
       "subject": "programming",
       "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "複習錯題或補一顆星",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [],
@@ -2220,7 +2214,7 @@
       "subject": "programming",
       "kind": "review",
       "title": "程式（CPE）",
-      "subtitle": "複習錯題或補一顆星",
+      "subtitle": "複習一顆星錯題，或補做不完的圖論",
       "status": "todo",
       "locked": false,
       "relatedProblemIds": [],

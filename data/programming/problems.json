@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-14",
   "language": "C++",
-  "judgeNote": "優先在瘋狂程設或 vjudge／UVa 交題，C++ 編譯選項接近 CPE 現場。",
+  "judgeNote": "一顆星 49 題與 https://yuihuang.com/cpe-level-1-49/、官網 starList 相同（該站依 UVa 題號，本庫依分類編號）。優先在瘋狂程設或 vjudge／UVa 交題。",
   "items": [
     {
       "id": "uva-10041",
@@ -14,6 +14,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort",
         "median"
       ],
@@ -21,7 +22,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10041.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10041"
@@ -38,13 +39,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10055.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10055"
@@ -61,6 +63,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "simulation"
       ],
@@ -68,7 +71,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10035.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10035"
@@ -85,6 +88,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "simulation"
       ],
@@ -92,7 +96,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/1/100.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-100"
@@ -109,6 +113,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "string"
       ],
@@ -116,7 +121,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10929.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10929"
@@ -133,6 +138,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "string"
       ],
@@ -140,7 +146,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10101.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10101"
@@ -157,6 +163,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string",
         "map"
       ],
@@ -164,7 +171,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10420.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10420"
@@ -181,6 +188,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string",
         "sort"
       ],
@@ -188,7 +196,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10008.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10008"
@@ -205,13 +213,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10222.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10222"
@@ -228,13 +237,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11332.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11332"
@@ -251,13 +261,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10252.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10252"
@@ -274,13 +285,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/490.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-490"
@@ -297,13 +309,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "string"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/2/272.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-272"
@@ -320,6 +333,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "date"
       ],
@@ -327,7 +341,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/120/12019.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-12019"
@@ -344,13 +358,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "array"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10038.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10038"
@@ -367,13 +382,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10056.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10056"
@@ -390,13 +406,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10170.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10170"
@@ -413,13 +430,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10268.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10268"
@@ -436,13 +454,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/107/10783.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10783"
@@ -459,13 +478,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/108/10812.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10812"
@@ -482,13 +502,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "array"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11349.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11349"
@@ -505,13 +526,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/114/11461.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11461"
@@ -528,13 +550,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "array"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/110/11063.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11063"
@@ -551,13 +574,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10071.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10071"
@@ -574,13 +598,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "base"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10093.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10093"
@@ -597,13 +622,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "base"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/9/948.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-948"
@@ -620,13 +646,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "base"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10019.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10019"
@@ -643,13 +670,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "base"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10931.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10931"
@@ -666,13 +694,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "base"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/110/11005.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11005"
@@ -689,13 +718,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10050.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10050"
@@ -712,13 +742,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "number-theory"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10193.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10193"
@@ -735,13 +766,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10190.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10190"
@@ -758,13 +790,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "prime"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10235.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10235"
@@ -781,13 +814,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10922.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10922"
@@ -804,13 +838,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "number-theory"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/114/11417.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11417"
@@ -827,6 +862,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "geometry",
         "array"
       ],
@@ -834,7 +870,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10908.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10908"
@@ -851,13 +887,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "geometry"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10221.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10221"
@@ -874,13 +911,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "geometry"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/106/10642.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10642"
@@ -897,13 +935,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "geometry"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10242.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10242"
@@ -920,6 +959,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort",
         "median"
       ],
@@ -927,7 +967,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10057.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10057"
@@ -944,6 +984,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort",
         "string"
       ],
@@ -951,7 +992,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10062.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10062"
@@ -968,13 +1009,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/2/299.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-299"
@@ -991,6 +1033,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort",
         "map"
       ],
@@ -998,7 +1041,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10226.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10226"
@@ -1015,13 +1058,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "simulation"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10189.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10189"
@@ -1038,13 +1082,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "simulation"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10409.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10409"
@@ -1061,13 +1106,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "simulation"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10415.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10415"
@@ -1084,13 +1130,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "simulation"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/1/118.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-118"
@@ -1107,6 +1154,7 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "math",
         "simulation"
       ],
@@ -1114,7 +1162,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/111/11150.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11150"
@@ -1131,13 +1179,14 @@
       "tags": [
         "1-star",
         "cpe",
+        "midterm",
         "sort"
       ],
       "difficulty": 1,
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "",
+      "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11321.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11321"
@@ -1158,7 +1207,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "網格連通塊（flood fill）。10/6 前至少做完這題與 Knight Moves。",
+      "note": "網格連通塊（flood fill）。10/6 前圖論底線，排在 10/2。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/5/572.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-572"
@@ -1178,7 +1227,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "無向圖連通塊。",
+      "note": "無向圖連通塊。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/459.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-459"
@@ -1199,7 +1248,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "網格 DFS 計面積。",
+      "note": "網格 DFS 計面積。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/469.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-469"
@@ -1220,7 +1269,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "網格連通塊變形。",
+      "note": "網格連通塊變形。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/119/11953.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11953"
@@ -1240,7 +1289,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "有向圖可達。",
+      "note": "有向圖可達。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/115/11518.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11518"
@@ -1260,7 +1309,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "二分圖著色，BFS／DFS 都可以。",
+      "note": "二分圖著色，BFS／DFS 都可以。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10004.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10004"
@@ -1281,7 +1330,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "棋盤最短步。無權重最短路一律 BFS。",
+      "note": "棋盤最短步。無權重最短路一律 BFS。10/6 前圖論底線，排在 10/2。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/439.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-439"
@@ -1302,7 +1351,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "三維迷宮最短路。",
+      "note": "三維迷宮最短路。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/5/532.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-532"
@@ -1323,7 +1372,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "大網格最短路，注意常數。",
+      "note": "大網格最短路，注意常數。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/106/10653.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10653"
@@ -1343,7 +1392,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "限制層數的 BFS。",
+      "note": "限制層數的 BFS。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/3/336.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-336"
@@ -1364,7 +1413,7 @@
       "language": "C++",
       "status": "todo",
       "minutes": null,
-      "note": "單字圖最短路。",
+      "note": "單字圖最短路。一顆星清完後再做，衝 12/8。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/429.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-429"
