@@ -346,6 +346,14 @@ nav.tabs button.active {
   color: inherit;
 }
 
+.table button.ghost {
+  padding: 0;
+  border: 0;
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .filters {
   display: flex;
   gap: 8px;
@@ -362,6 +370,19 @@ nav.tabs button.active {
   border: 1px solid var(--line);
   padding: 7px 8px;
   color: var(--ink);
+}
+
+select.rating.boss {
+  color: var(--exam);
+}
+select.rating.top {
+  color: var(--calc);
+}
+select.rating.npc {
+  color: var(--muted);
+}
+select.rating.roadside {
+  color: var(--done);
 }
 
 .editor {
@@ -409,9 +430,67 @@ nav.tabs button.active {
   font-size: 13px;
 }
 
+.notebook {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.notebook-toc {
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 14px 12px;
+  max-height: calc(100vh - 210px);
+  overflow: auto;
+}
+
+.notebook-toc h2 {
+  font-size: 18px;
+  margin: 0 0 8px;
+}
+
+.notebook-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  text-align: left;
+  border: 1px solid transparent;
+  background: transparent;
+  padding: 7px 8px;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+
+.notebook-item.active {
+  border-color: var(--ink);
+  background: var(--prog-bg);
+}
+
+.notebook-stage {
+  min-width: 0;
+}
+
+.notebook-frame {
+  width: 100%;
+  height: calc(100vh - 230px);
+  min-height: 560px;
+  border: 1px solid var(--line);
+  background: var(--card);
+}
+
 @media (max-width: 1100px) {
   .layout {
     grid-template-columns: 1fr;
+  }
+
+  .notebook {
+    grid-template-columns: 1fr;
+  }
+
+  .notebook-toc {
+    max-height: 240px;
   }
 
   .cell {

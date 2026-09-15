@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, mkdirSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { PAPER_SOURCES } from "./download-papers.mjs";
@@ -82,6 +82,12 @@ const STAR = [
 const categoryOf = (n) =>
   STAR_CATEGORIES.find(([, a, b]) => n >= a && n <= b)?.[0] ?? "其他";
 
+const notebook = JSON.parse(
+  readFileSync(join(dataDir, "programming", "notebook.json"), "utf8"),
+);
+const hackmdPage = (noteId) =>
+  `${notebook.bookUrl}/${encodeURIComponent(`/@${notebook.authorPath}/${noteId}`)}`;
+
 const starProblems = STAR.map(([n, title, cpe, uva, extra]) => ({
   id: `uva-${uva}`,
   source: "CPE一顆星",
@@ -99,6 +105,9 @@ const starProblems = STAR.map(([n, title, cpe, uva, extra]) => ({
   urls: {
     uvaPdf: uvaPdf(uva),
     vjudge: vjudge(uva),
+    ...(notebook.notes[String(uva)]
+      ? { hackmd: hackmdPage(notebook.notes[String(uva)]) }
+      : { hackmdBook: notebook.bookUrl }),
   },
 }));
 
@@ -260,11 +269,11 @@ const graphProblems = [
 ];
 
 const problems = {
-  updatedAt: "2026-09-14",
+  updatedAt: "2026-09-15",
   language: "C++",
   judgeNote:
     "一顆星 49 題與 https://yuihuang.com/cpe-level-1-49/、官網 starList 相同（該站依 UVa 題號，本庫依分類編號）。優先在瘋狂程設或 vjudge／UVa 交題。",
-  items: [...starProblems, ...graphProblems],
+  items: [...starProblems, ...graphProblems].map((p) => ({ ...p, rating: p.rating ?? "" })),
 };
 
 const lectures = [

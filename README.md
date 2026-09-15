@@ -33,6 +33,7 @@ npm run dev
 - 拖曳卡片改期；考試與 CPE 報名鎖住
 - 雙擊空格新增時段
 - 題庫可把狀態改成完成／卡住
+- CPE 刷題筆記在「刷題筆記」分頁（HackMD：https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx）
 - 調整存在瀏覽器；請用「匯出目前進度」備份，必要時再貼回 `data/`
 
 若改了 `scripts/generate-data.mjs`，在專案根目錄執行 `npm run data` 會覆寫 JSON（不會覆寫你放進去的 PDF）。

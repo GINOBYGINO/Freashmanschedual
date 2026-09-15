@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-15",
   "language": "C++",
   "judgeNote": "一顆星 49 題與 https://yuihuang.com/cpe-level-1-49/、官網 starList 相同（該站依 UVa 題號，本庫依分類編號）。優先在瘋狂程設或 vjudge／UVa 交題。",
   "items": [
@@ -25,8 +25,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10041.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10041"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10041",
+        "hackmd": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx/%2F%40KmGhOo8ZRwqiTc0v_9dKFA%2FSJVKYDHKfl"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10055",
@@ -49,8 +51,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10055.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10055"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10055",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10035",
@@ -74,8 +78,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10035.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10035"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10035",
+        "hackmd": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx/%2F%40KmGhOo8ZRwqiTc0v_9dKFA%2FB1gvivBKzl"
+      },
+      "rating": ""
     },
     {
       "id": "uva-100",
@@ -99,8 +105,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/1/100.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-100"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-100",
+        "hackmd": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx/%2F%40KmGhOo8ZRwqiTc0v_9dKFA%2FByV-IvrYMl"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10929",
@@ -124,8 +132,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10929.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10929"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10929",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10101",
@@ -149,8 +159,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10101.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10101"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10101",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10420",
@@ -174,8 +186,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10420.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10420"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10420",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10008",
@@ -199,8 +213,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10008.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10008"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10008",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10222",
@@ -223,8 +239,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10222.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10222"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10222",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11332",
@@ -247,8 +265,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11332.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11332"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11332",
+        "hackmd": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx/%2F%40KmGhOo8ZRwqiTc0v_9dKFA%2FSkiWg_SYGx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10252",
@@ -271,8 +291,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10252.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10252"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10252",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-490",
@@ -295,8 +317,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/490.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-490"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-490",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-272",
@@ -319,8 +343,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/2/272.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-272"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-272",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-12019",
@@ -344,8 +370,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/120/12019.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-12019"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-12019",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10038",
@@ -368,8 +396,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10038.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10038"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10038",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10056",
@@ -392,8 +422,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10056.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10056"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10056",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10170",
@@ -416,8 +448,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10170.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10170"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10170",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10268",
@@ -440,8 +474,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10268.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10268"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10268",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10783",
@@ -464,8 +500,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/107/10783.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10783"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10783",
+        "hackmd": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx/%2F%40KmGhOo8ZRwqiTc0v_9dKFA%2FByf8gYBtMg"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10812",
@@ -488,8 +526,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/108/10812.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10812"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10812",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11349",
@@ -512,8 +552,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11349.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11349"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11349",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11461",
@@ -536,8 +578,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/114/11461.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11461"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11461",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11063",
@@ -560,8 +604,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/110/11063.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11063"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11063",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10071",
@@ -584,8 +630,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10071.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10071"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10071",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10093",
@@ -608,8 +656,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10093.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10093"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10093",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-948",
@@ -632,8 +682,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/9/948.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-948"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-948",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10019",
@@ -656,8 +708,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10019.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10019"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10019",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10931",
@@ -680,8 +734,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10931.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10931"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10931",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11005",
@@ -704,8 +760,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/110/11005.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11005"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11005",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10050",
@@ -728,8 +786,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10050.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10050"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10050",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10193",
@@ -752,8 +812,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10193.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10193"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10193",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10190",
@@ -776,8 +838,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10190.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10190"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10190",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10235",
@@ -800,8 +864,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10235.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10235"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10235",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10922",
@@ -824,8 +890,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10922.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10922"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10922",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11417",
@@ -848,8 +916,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/114/11417.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11417"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11417",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10908",
@@ -873,8 +943,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/109/10908.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10908"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10908",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10221",
@@ -897,8 +969,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10221.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10221"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10221",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10642",
@@ -921,8 +995,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/106/10642.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10642"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10642",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10242",
@@ -945,8 +1021,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10242.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10242"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10242",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10057",
@@ -970,8 +1048,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10057.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10057"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10057",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10062",
@@ -995,8 +1075,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10062.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10062"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10062",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-299",
@@ -1019,8 +1101,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/2/299.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-299"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-299",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10226",
@@ -1044,8 +1128,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/102/10226.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10226"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10226",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10189",
@@ -1068,8 +1154,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/101/10189.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10189"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10189",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10409",
@@ -1092,8 +1180,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10409.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10409"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10409",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-10415",
@@ -1116,8 +1206,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/104/10415.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-10415"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-10415",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-118",
@@ -1140,8 +1232,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/1/118.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-118"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-118",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11150",
@@ -1165,8 +1259,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/111/11150.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11150"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11150",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-11321",
@@ -1189,8 +1285,10 @@
       "note": "程式期中優先（一顆星選集）。",
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/113/11321.pdf",
-        "vjudge": "https://vjudge.net/problem/UVA-11321"
-      }
+        "vjudge": "https://vjudge.net/problem/UVA-11321",
+        "hackmdBook": "https://hackmd.io/@KmGhOo8ZRwqiTc0v_9dKFA/Hy_Qp8HtMx"
+      },
+      "rating": ""
     },
     {
       "id": "uva-572",
@@ -1211,7 +1309,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/5/572.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-572"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-459",
@@ -1231,7 +1330,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/459.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-459"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-469",
@@ -1252,7 +1352,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/469.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-469"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-11953",
@@ -1273,7 +1374,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/119/11953.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11953"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-11518",
@@ -1293,7 +1395,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/115/11518.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-11518"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-10004",
@@ -1313,7 +1416,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/100/10004.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10004"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-439",
@@ -1334,7 +1438,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/439.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-439"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-532",
@@ -1355,7 +1460,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/5/532.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-532"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-10653",
@@ -1376,7 +1482,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/106/10653.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-10653"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-336",
@@ -1396,7 +1503,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/3/336.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-336"
-      }
+      },
+      "rating": ""
     },
     {
       "id": "uva-429",
@@ -1417,7 +1525,8 @@
       "urls": {
         "uvaPdf": "https://onlinejudge.org/external/4/429.pdf",
         "vjudge": "https://vjudge.net/problem/UVA-429"
-      }
+      },
+      "rating": ""
     }
   ]
 }

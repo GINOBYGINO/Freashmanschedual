@@ -2,8 +2,11 @@ import { Fragment, useMemo, useState } from "react";
 import calendarBase from "@data/calendar.json";
 import papersBase from "@data/calculus/papers.json";
 import problemsBase from "@data/programming/problems.json";
+import notebook from "@data/programming/notebook.json";
 import {
   STATUS_LABEL,
+  RATING_LABEL,
+  RATING_OPTIONS,
   SUBJECT_LABEL,
   addDays,
   clearOverlay,
@@ -26,6 +29,28 @@ const PERIODS = [
   ["evening", "晚上", "19:30–21:30"],
 ];
 
+function hackmdPage(noteId) {
+  if (!noteId) return notebook.bookUrl;
+  return `${notebook.bookUrl}/${encodeURIComponent(`/@${notebook.authorPath}/${noteId}`)}`;
+}
+
+function problemNoteUrl(p) {
+  return p?.urls?.hackmd || notebook.bookUrl;
+}
+
+function RatingSelect({ value, onChange }) {
+  return (
+    <select className={`rating ${value || "unset"}`} value={value || ""} onChange={onChange}>
+      <option value="">{RATING_LABEL[""]}</option>
+      {RATING_OPTIONS.map((key) => (
+        <option key={key} value={key}>
+          {RATING_LABEL[key]}
+        </option>
+      ))}
+    </select>
+  );
+}
+
 function applyOverlay(overlay) {
   return {
     events: mergeEvents(calendarBase.events, overlay.events || {}),
@@ -42,6 +67,8 @@ export default function App() {
   const [dropCell, setDropCell] = useState(null);
   const [q, setQ] = useState("");
   const [tag, setTag] = useState("all");
+  const [ratingFilter, setRatingFilter] = useState("all");
+  const [noteSrc, setNoteSrc] = useState(hackmdPage(notebook.intro.noteId));
 
   const data = useMemo(() => applyOverlay(overlay), [overlay]);
   const days = Array.from({ length: 7 }, (_, i) => addDays(weekStart, i));
@@ -128,10 +155,11 @@ export default function App() {
   const tags = ["all", "midterm", "1-star", "dfs", "bfs", "sort", "simulation", "graph"];
 
   const filteredProblems = data.problems.filter((p) => {
-    const hay = `${p.title} ${p.uvaId} ${p.category} ${(p.tags || []).join(" ")}`.toLowerCase();
+    const hay = `${p.title} ${p.uvaId} ${p.category} ${(p.tags || []).join(" ")} ${RATING_LABEL[p.rating] || ""}`.toLowerCase();
     const okQ = !q || hay.includes(q.toLowerCase());
     const okT = tag === "all" || (p.tags || []).includes(tag) || p.category.toLowerCase() === tag;
-    return okQ && okT;
+    const okR = ratingFilter === "all" || (p.rating || "") === ratingFilter;
+    return okQ && okT && okR;
   });
 
   function exportAll() {
@@ -172,6 +200,7 @@ export default function App() {
         {[
           ["week", "週曆"],
           ["problems", "CPE 題庫"],
+          ["notes", "刷題筆記"],
           ["papers", "微積分考卷"],
         ].map(([id, label]) => (
           <button key={id} className={tab === id ? "active" : ""} onClick={() => setTab(id)}>
@@ -306,6 +335,23 @@ export default function App() {
                 <span style={{ width: `${paperDone.pct}%` }} />
               </div>
             </div>
+            <div className="card">
+              <h2>刷題筆記</h2>
+              <div className="hint">{notebook.title} · HackMD，寫好的題解會同步進來。</div>
+              <div className="row" style={{ marginTop: 8 }}>
+                <button
+                  onClick={() => {
+                    setNoteSrc(hackmdPage(notebook.intro.noteId));
+                    setTab("notes");
+                  }}
+                >
+                  在網站開筆記
+                </button>
+                <a href={notebook.bookUrl} target="_blank" rel="noreferrer">
+                  開 HackMD
+                </a>
+              </div>
+            </div>
           </aside>
         </div>
       )}
@@ -321,11 +367,21 @@ export default function App() {
                 </option>
               ))}
             </select>
+            <select value={ratingFilter} onChange={(e) => setRatingFilter(e.target.value)}>
+              <option value="all">全部評價</option>
+              {RATING_OPTIONS.map((key) => (
+                <option key={key} value={key}>
+                  {RATING_LABEL[key]}
+                </option>
+              ))}
+              <option value="">未評</option>
+            </select>
           </div>
           <table className="table">
             <thead>
               <tr>
                 <th>狀態</th>
+                <th>評價</th>
                 <th>來源</th>
                 <th>題號</th>
                 <th>題名</th>
@@ -345,6 +401,12 @@ export default function App() {
                       ))}
                     </select>
                   </td>
+                  <td>
+                    <RatingSelect
+                      value={p.rating}
+                      onChange={(e) => patchProblem(p.id, { rating: e.target.value })}
+                    />
+                  </td>
                   <td>{p.source}</td>
                   <td>UVa {p.uvaId}</td>
                   <td>
@@ -360,11 +422,74 @@ export default function App() {
                     <a href={p.urls.uvaPdf} target="_blank" rel="noreferrer">
                       PDF
                     </a>
+                    {" · "}
+                    {p.urls?.hackmd ? (
+                      <button
+                        className="ghost"
+                        onClick={() => {
+                          setNoteSrc(p.urls.hackmd);
+                          setTab("notes");
+                        }}
+                      >
+                        筆記
+                      </button>
+                    ) : (
+                      <a href={notebook.bookUrl} target="_blank" rel="noreferrer">
+                        目錄
+                      </a>
+                    )}
                   </td>
                 </tr>
               ))}
             </tbody>
           </table>
+        </section>
+      )}
+
+      {tab === "notes" && (
+        <section className="notebook">
+          <aside className="notebook-toc">
+            <h2 className="serif">{notebook.title}</h2>
+            <p className="hint">HackMD 原書會同步。還沒寫的題目先開目錄。</p>
+            <div className="row" style={{ marginBottom: 10 }}>
+              <a href={notebook.bookUrl} target="_blank" rel="noreferrer">
+                在新分頁開 HackMD
+              </a>
+            </div>
+            <button
+              className={`notebook-item ${noteSrc === hackmdPage(notebook.intro.noteId) ? "active" : ""}`}
+              onClick={() => setNoteSrc(hackmdPage(notebook.intro.noteId))}
+            >
+              {notebook.intro.title}
+            </button>
+            {star.map((p) => (
+              <button
+                key={p.id}
+                className={`notebook-item ${noteSrc === problemNoteUrl(p) && p.urls?.hackmd ? "active" : ""}`}
+                onClick={() => setNoteSrc(problemNoteUrl(p))}
+              >
+                <span>
+                  UVa {p.uvaId} {p.title}
+                </span>
+                <span className="hint">
+                  {p.urls?.hackmd ? "已寫" : "目錄"}
+                  {p.rating ? ` · ${RATING_LABEL[p.rating]}` : ""}
+                </span>
+              </button>
+            ))}
+          </aside>
+          <div className="notebook-stage">
+            <iframe
+              key={noteSrc}
+              className="notebook-frame"
+              title={notebook.title}
+              src={noteSrc}
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+            <p className="hint">
+              若內嵌被擋，用左邊「在新分頁開 HackMD」。你在 HackMD 寫的內容會直接出現在這裡。
+            </p>
+          </div>
         </section>
       )}
 
@@ -481,6 +606,9 @@ export default function App() {
                     <span>
                       UVa {p.uvaId} {p.title}
                     </span>
+                    <a href={problemNoteUrl(p)} target="_blank" rel="noreferrer">
+                      {p.urls?.hackmd ? "筆記" : "目錄"}
+                    </a>
                     <select value={p.status} onChange={(e) => patchProblem(id, { status: e.target.value })}>
                       {["todo", "doing", "stuck", "done"].map((s) => (
                         <option key={s} value={s}>
@@ -488,6 +616,10 @@ export default function App() {
                         </option>
                       ))}
                     </select>
+                    <RatingSelect
+                      value={p.rating}
+                      onChange={(e) => patchProblem(id, { rating: e.target.value })}
+                    />
                   </div>
                 );
               })}

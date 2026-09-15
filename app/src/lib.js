@@ -9,6 +9,16 @@ export const STATUS_LABEL = {
   "need-source": "待找卷",
 };
 
+export const RATING_OPTIONS = ["boss", "top", "npc", "roadside"];
+
+export const RATING_LABEL = {
+  "": "未評",
+  boss: "魔王",
+  top: "頂尖",
+  npc: "NPC",
+  roadside: "路邊一條",
+};
+
 export const SUBJECT_LABEL = {
   calculus: "微積分",
   programming: "程式",
